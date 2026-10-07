@@ -4,7 +4,7 @@ img {
 }
 .boba-image {
   cursor: pointer;
-  border: 8px solid white;
+  border: 6px solid white;
   }
 .boba-image:focus-visible {
   outline: 3px solid #0066cc;
