@@ -4,6 +4,9 @@ img {
 }
 .boba-image {
   cursor: pointer;
+.boba-image {
+    border: 5px solid #333333; 
+}
 
   }
 .boba-image:focus-visible {
